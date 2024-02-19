@@ -6,22 +6,22 @@
     2. Wizard: Casts spells; uses magic barrier to defend
     3. Archer: Shoots arrows; uses dodge to to defend
 
-*Implement two types of Strategy:*
+**Implement two types of Strategy:**
 
-   A.  DefenseStrategy
+   *A.  DefenseStrategy*
    
      1. Shield
      2. Dodge
      3. CreateMagic
 
-   B.  AttackStrategy
+   *B.  AttackStrategy*
 
      1.  CastSpell
      2.  ShootArrow
      3.  SwingSword  
 
 
-Refactor the existing codes and provide the UML Diagram:
+**Refactor the existing codes and provide the UML Diagram:**
 
 
     public class Character {
