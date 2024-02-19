@@ -50,5 +50,5 @@ public class Character {
             System.out.println("Using a shield to defend!"");
         }
     }
-}
+
 
