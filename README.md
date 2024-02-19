@@ -52,4 +52,7 @@ Refactor the existing codes and provide the UML Diagram:
       }
     }
 
+# UML Diagram
+
+![image](https://github.com/Nayunnie1/SoftEng---CS1/assets/58744536/d6e2f5db-4536-47aa-88a4-269643f7402b)
 
