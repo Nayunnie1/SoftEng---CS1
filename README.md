@@ -49,6 +49,7 @@ public class Character {
         } else if (type.equals("Archer")) {
             System.out.println("Using a shield to defend!"");
         }
+      }
     }
 
 
